@@ -18,10 +18,12 @@
 - Now checked all setup wen't well.
   - `gvm-check-setup`
 -Before starting the gvm we need to look all `gvmd data`, `SCAP data`, `Certificates data`
- - `sudo greenbone-feed-sync --type NVT
-sudo greenbone-feed-sync --type SCAP
-sudo greenbone-feed-sync --type GVMD_DATA
+ - `greenbone-feed-sync --type GVMD_DATA
+greenbone-feed-sync --type SCAP
+greenbone-feed-sync --type NVT
+greenbone-feed-sync --type CERT
 `
 - Now Start GVM(Greenbone Vulnerablity Mananger-Frame work of tools used for VUlnerablity Manangement).
   - `gvm-start`
   - `gvm-stop`
+  
