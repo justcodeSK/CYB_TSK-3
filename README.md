@@ -34,8 +34,8 @@ greenbone-feed-sync --type CERT
 - Re-installed the sync data multiple times to update the feed.
 - Hence the data base does has the data and its not yet able to update to web ui.
 - Still searching on for furrther solutions.
-- Screen short of issue faced ``
+- Screen short of issue faced `task_delayed.png`
 
 ## Reference and Learned
-- References used : `https://www.youtube.com/watch?v=ZJcEWx9mlng` , `https://www.youtube.com/watch?v=LGh2SetiKaY` , `https://www.youtube.com/watch?v=0CZBN9DnDCg`
+- References used : https://www.youtube.com/watch?v=ZJcEWx9mlng , https://www.youtube.com/watch?v=LGh2SetiKaY , https://www.youtube.com/watch?v=0CZBN9DnDCg
 - Couldint perform a vulnerablity scan even after multiple tries and But i make it the most of it by learning much from youtube and how an actual vulnerablity scan should have worked.
