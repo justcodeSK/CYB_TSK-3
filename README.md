@@ -1,14 +1,14 @@
 # Task 3 - Vulnerability Scan on My PC
 
 ## Tool Used
-- Nessus Essentials (or OpenVAS)
-- VM (Kali Linux 2025.1c)
+- Greenbone OpenVAS
+- VM (Kali Linux 2025.2)
 
 ## Scan Target
 - Localhost : inet 192.168.56.103
 
 ## Scan Type
-- Full vulnerability scan
+- Full vulnerability scan TCP and UDP.
 
 ## Configuration & Installation
 - Used Kali Linux OS is much better than using a windows OS Enviornment.
